@@ -1,4 +1,4 @@
-# Box-Shooter
+# Box Shooter
  
 > This project is the 3rd assignment of "[Introduction to Game Development](coursera.org/learn/game-development/)" course by [Coursera](https://www.coursera.org/).
 
